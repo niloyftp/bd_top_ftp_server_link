@@ -9,6 +9,8 @@ SAM ONLINE
 http://172.16.50.4/
 <br>
 http://172.16.50.5/
+<br>
+http://172.16.50.14/
 
 CIRCLE FTP
 <br>
